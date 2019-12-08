@@ -8,7 +8,7 @@ class Demo extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-          primaryColor: Colors.blue,
+          primaryColor: Colors.yellow,
           primaryColorBrightness: Brightness.dark
       ),
       home: HomePage(title: 'Flutter Demo'),
